@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicEXE_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicStand0000" x="1" y="1" width="48" height="48"/>
+	<SubTexture name="SonicStand0001" x="50" y="1" width="48" height="48"/>
+
+	<SubTexture name="SonicUp0000" x="1" y="50" width="48" height="48"/>
+	<SubTexture name="SonicUp0001" x="50" y="50" width="48" height="48"/>
+
+	<SubTexture name="SonicLeft0000" x="1" y="99" width="48" height="48"/>
+	<SubTexture name="SonicLeft0001" x="50" y="99" width="48" height="48"/>
+
+	<SubTexture name="SonicRight0000" x="1" y="148" width="48" height="48"/>
+	<SubTexture name="SonicRight0001" x="50" y="148" width="48" height="48"/>
+
+	<SubTexture name="SonicDown0000" x="1" y="197" width="48" height="48"/>
+	<SubTexture name="SonicDown0001" x="50" y="197" width="48" height="48"/>
+</TextureAtlas>

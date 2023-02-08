@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EggmanRun2_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EggmanStand0000" x="191" y="1" width="94" height="94"/>
+	<SubTexture name="EggmanStand0001" x="96" y="1" width="94" height="94"/>
+	<SubTexture name="EggmanStand0002" x="1" y="1" width="94" height="94"/>
+
+	<SubTexture name="EggmanUp0000" x="1" y="96" width="94" height="94"/>
+	<SubTexture name="EggmanUp0001" x="96" y="96" width="94" height="94"/>
+	<SubTexture name="Eggman2Up0000" x="191" y="96" width="94" height="94"/>
+	<SubTexture name="Eggman2Up0001" x="286" y="96" width="94" height="94"/>
+
+	<SubTexture name="EggmanLeft0000" x="1" y="191" width="94" height="94"/>
+	<SubTexture name="EggmanLeft0001" x="96" y="191" width="94" height="94"/>
+	<SubTexture name="Eggman2Left0000" x="191" y="191" width="94" height="94"/>
+	<SubTexture name="Eggman2Left0001" x="286" y="191" width="94" height="94"/>
+
+	<SubTexture name="EggmanRight0000" x="1" y="286" width="94" height="94"/>
+	<SubTexture name="EggmanRight0001" x="96" y="286" width="94" height="94"/>
+	<SubTexture name="Eggman2Right0000" x="191" y="286" width="94" height="94"/>
+	<SubTexture name="Eggman2Right0001" x="286" y="286" width="94" height="94"/>
+
+	<SubTexture name="EggmanDown0000" x="1" y="381" width="94" height="94"/>
+	<SubTexture name="EggmanDown0001" x="96" y="381" width="94" height="94"/>
+	<SubTexture name="Eggman2Down0000" x="191" y="381" width="94" height="94"/>
+	<SubTexture name="Eggman2Down0001" x="286" y="381" width="94" height="94"/>
+
+	<SubTexture name="EggmanBreak0000" x="1" y="476" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0001" x="96" y="476" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0002" x="191" y="476" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0000" x="286" y="476" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0000" x="1" y="571" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0001" x="96" y="571" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0002" x="191" y="571" width="94" height="94"/>
+	<SubTexture name="EggmanBreak0000" x="292" y="582" width="2" height="2"/>
+</TextureAtlas>

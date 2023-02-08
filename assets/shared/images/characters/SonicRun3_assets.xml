@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRun3_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicStand0000" x="1" y="1" width="96" height="96"/>
+	<SubTexture name="SonicStand0001" x="98" y="1" width="96" height="96"/>
+	<SubTexture name="SonicStand0002" x="195" y="1" width="96" height="96"/>
+	<SubTexture name="SonicStand0003" x="292" y="1" width="96" height="96"/>
+
+	<SubTexture name="SonicUp0000" x="1" y="98" width="96" height="96"/>
+	<SubTexture name="SonicUp0001" x="98" y="98" width="96" height="96"/>
+	<SubTexture name="SonicUp0002" x="195" y="98" width="96" height="96"/>
+	<SubTexture name="SonicUp0003" x="292" y="98" width="96" height="96"/>
+	<SubTexture name="SonicUpMISS0000" x="389" y="98" width="96" height="96"/>
+
+	<SubTexture name="SonicLeft0000" x="1" y="195" width="96" height="96"/>
+	<SubTexture name="SonicLeft0001" x="98" y="195" width="96" height="96"/>
+	<SubTexture name="SonicLeft0002" x="195" y="195" width="96" height="96"/>
+	<SubTexture name="SonicLeft0003" x="292" y="195" width="96" height="96"/>
+	<SubTexture name="SonicLeftMISS0000" x="389" y="195" width="96" height="96"/>
+
+	<SubTexture name="SonicRight0000" x="1" y="292" width="96" height="96"/>
+	<SubTexture name="SonicRight0001" x="98" y="292" width="96" height="96"/>
+	<SubTexture name="SonicRight0002" x="195" y="292" width="96" height="96"/>
+	<SubTexture name="SonicRight0003" x="292" y="292" width="96" height="96"/>
+	<SubTexture name="SonicRightMISS0000" x="389" y="292" width="96" height="96"/>
+
+	<SubTexture name="SonicDown0000" x="1" y="389" width="96" height="96"/>
+	<SubTexture name="SonicDown0001" x="98" y="389" width="96" height="96"/>
+	<SubTexture name="SonicDown0002" x="195" y="389" width="96" height="96"/>
+	<SubTexture name="SonicDown0003" x="292" y="389" width="96" height="96"/>
+	<SubTexture name="SonicDownMISS0000" x="389" y="389" width="96" height="96"/>
+</TextureAtlas>

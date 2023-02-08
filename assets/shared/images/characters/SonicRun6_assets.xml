@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRun6_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicStand0000" x="1" y="1" width="48" height="48"/>
+	<SubTexture name="SonicStand0001" x="50" y="1" width="48" height="48"/>
+	<SubTexture name="SonicStand0002" x="99" y="1" width="48" height="48"/>
+	<SubTexture name="SonicStand0003" x="148" y="1" width="48" height="48"/>
+
+	<SubTexture name="SonicUp0000" x="1" y="50" width="48" height="48"/>
+	<SubTexture name="SonicUp0001" x="50" y="50" width="48" height="48"/>
+	<SubTexture name="SonicUp0002" x="99" y="50" width="48" height="48"/>
+	<SubTexture name="SonicUp0003" x="148" y="50" width="48" height="48"/>
+	<SubTexture name="SonicUpMISS0000" x="197" y="50" width="48" height="48"/>
+
+	<SubTexture name="SonicLeft0000" x="1" y="99" width="48" height="48"/>
+	<SubTexture name="SonicLeft0001" x="50" y="99" width="48" height="48"/>
+	<SubTexture name="SonicLeft0002" x="99" y="99" width="48" height="48"/>
+	<SubTexture name="SonicLeft0003" x="148" y="99" width="48" height="48"/>
+	<SubTexture name="SonicLeftMISS0000" x="197" y="99" width="48" height="48"/>
+
+	<SubTexture name="SonicRight0000" x="1" y="148" width="48" height="48"/>
+	<SubTexture name="SonicRight0001" x="50" y="148" width="48" height="48"/>
+	<SubTexture name="SonicRight0002" x="99" y="148" width="48" height="48"/>
+	<SubTexture name="SonicRight0003" x="148" y="148" width="48" height="48"/>
+	<SubTexture name="SonicRightMISS0000" x="197" y="148" width="48" height="48"/>
+
+	<SubTexture name="SonicDown0000" x="1" y="197" width="48" height="48"/>
+	<SubTexture name="SonicDown0001" x="50" y="197" width="48" height="48"/>
+	<SubTexture name="SonicDown0002" x="99" y="197" width="48" height="48"/>
+	<SubTexture name="SonicDown0003" x="148" y="197" width="48" height="48"/>
+	<SubTexture name="SonicDownMISS0000" x="197" y="197" width="48" height="48"/>
+
+	<SubTexture name="SonicTalk0000" x="1" y="246" width="48" height="48"/>
+	<SubTexture name="SonicTalk0001" x="50" y="246" width="48" height="48"/>
+	<SubTexture name="SonicTalk0002" x="99" y="246" width="48" height="48"/>
+	<SubTexture name="SonicTalk0003" x="148" y="246" width="48" height="48"/>
+	<SubTexture name="SonicTalk0004" x="1" y="295" width="48" height="48"/>
+	<SubTexture name="SonicTalk0005" x="50" y="295" width="48" height="48"/>
+	<SubTexture name="SonicTalk0006" x="99" y="295" width="48" height="48"/>
+	<SubTexture name="SonicTalk0007" x="148" y="295" width="48" height="48"/>
+	<SubTexture name="SonicTalk0008" x="1" y="344" width="48" height="48"/>
+	<SubTexture name="SonicTalk0009" x="50" y="344" width="48" height="48"/>
+	<SubTexture name="SonicTalk0010" x="99" y="344" width="48" height="48"/>
+	<SubTexture name="SonicTalk0011" x="148" y="344" width="48" height="48"/>
+	<SubTexture name="SonicTalk0012" x="1" y="393" width="48" height="48"/>
+	<SubTexture name="SonicTalk0013" x="50" y="393" width="48" height="48"/>
+	<SubTexture name="SonicTalk0014" x="99" y="393" width="48" height="48"/>
+	<SubTexture name="SonicTalk0015" x="148" y="393" width="48" height="48"/>
+	<SubTexture name="SonicTalk0016" x="1" y="442" width="48" height="48"/>
+	<SubTexture name="SonicTalk0017" x="50" y="442" width="48" height="48"/>
+	<SubTexture name="SonicTalk0018" x="99" y="442" width="48" height="48"/>
+	<SubTexture name="SonicTalk0019" x="148" y="442" width="48" height="48"/>
+	<SubTexture name="SonicTalk0020" x="1" y="491" width="48" height="48"/>
+	<SubTexture name="SonicTalk0021" x="50" y="491" width="48" height="48"/>
+	<SubTexture name="SonicTalk0022" x="99" y="491" width="48" height="48"/>
+	<SubTexture name="SonicTalk0023" x="148" y="491" width="48" height="48"/>
+	<SubTexture name="SonicTalk0024" x="1" y="540" width="48" height="48"/>
+	<SubTexture name="SonicTalk0025" x="50" y="540" width="48" height="48"/>
+	<SubTexture name="SonicTalk0026" x="99" y="540" width="48" height="48"/>
+	<SubTexture name="SonicTalk0027" x="148" y="540" width="48" height="48"/>
+	<SubTexture name="SonicTalk0028" x="1" y="589" width="48" height="48"/>
+	<SubTexture name="SonicTalk0029" x="50" y="589" width="48" height="48"/>
+	<SubTexture name="SonicTalk0030" x="99" y="589" width="48" height="48"/>
+	<SubTexture name="SonicTalk0031" x="148" y="589" width="48" height="48"/>
+	<SubTexture name="SonicTalk0032" x="1" y="638" width="48" height="48"/>
+	<SubTexture name="SonicTalk0033" x="50" y="638" width="48" height="48"/>
+	<SubTexture name="SonicTalk0034" x="99" y="638" width="48" height="48"/>
+	<SubTexture name="SonicTalk0035" x="148" y="638" width="48" height="48"/>
+	<SubTexture name="SonicTalk0036" x="1" y="687" width="48" height="48"/>
+	<SubTexture name="SonicTalk0037" x="50" y="687" width="48" height="48"/>
+	<SubTexture name="SonicTalk0038" x="99" y="687" width="48" height="48"/>
+	<SubTexture name="SonicTalk0039" x="148" y="687" width="48" height="48"/>
+	<SubTexture name="SonicTalk0040" x="1" y="736" width="48" height="48"/>
+	<SubTexture name="SonicTalk0041" x="50" y="736" width="48" height="48"/>
+	<SubTexture name="SonicTalk0042" x="99" y="736" width="48" height="48"/>
+	<SubTexture name="SonicTalk0043" x="148" y="736" width="48" height="48"/>
+	<SubTexture name="SonicTalk0044" x="1" y="785" width="48" height="48"/>
+	<SubTexture name="SonicTalk0045" x="50" y="785" width="48" height="48"/>
+	<SubTexture name="SonicTalk0046" x="99" y="785" width="48" height="48"/>
+	<SubTexture name="SonicTalk0047" x="148" y="785" width="48" height="48"/>
+
+	<SubTexture name="SonicLaugh0000" x="1" y="834" width="48" height="48"/>
+	<SubTexture name="SonicLaugh0001" x="50" y="834" width="48" height="48"/>
+	<SubTexture name="SonicLaugh0002" x="99" y="834" width="48" height="48"/>
+	<SubTexture name="SonicLaugh0003" x="148" y="834" width="48" height="48"/>
+
+	<SubTexture name="SonicLaughh0000" x="1" y="883" width="48" height="48"/>
+	<SubTexture name="SonicLaughh0001" x="50" y="883" width="48" height="48"/>
+	<SubTexture name="SonicLaughh0002" x="99" y="883" width="48" height="48"/>
+	<SubTexture name="SonicLaughh0003" x="148" y="883" width="48" height="48"/>
+</TextureAtlas>

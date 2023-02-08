@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EggmanRun6_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EggmanStand0000" x="96" y="1" width="94" height="94"/>
+	<SubTexture name="EggmanStand0001" x="1" y="1" width="94" height="94"/>
+
+	<SubTexture name="EggmanRoyale0000" x="1" y="96" width="110" height="94"/>
+	<SubTexture name="EggmanRoyale0001" x="113" y="96" width="110" height="94"/>
+</TextureAtlas>

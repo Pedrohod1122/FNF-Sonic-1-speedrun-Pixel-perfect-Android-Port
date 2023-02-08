@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRun13_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic1Talk0000" x="2" y="2" width="96" height="96"/>
+	<SubTexture name="Sonic1Talk0001" x="100" y="2" width="96" height="96"/>
+	<SubTexture name="Sonic1Talk0002" x="198" y="2" width="96" height="96"/>
+	<SubTexture name="Sonic1Talk0003" x="296" y="2" width="96" height="96"/>
+
+	<SubTexture name="Sonic2Talk0000" x="2" y="100" width="96" height="96"/>
+	<SubTexture name="Sonic2Talk0001" x="100" y="100" width="96" height="96"/>
+	<SubTexture name="Sonic2Talk0002" x="198" y="100" width="96" height="96"/>
+	<SubTexture name="Sonic2Talk0003" x="296" y="100" width="96" height="96"/>
+
+	<SubTexture name="Sonic3Talk0000" x="2" y="198" width="96" height="96"/>
+	<SubTexture name="Sonic3Talk0001" x="100" y="198" width="96" height="96"/>
+	<SubTexture name="Sonic3Talk0002" x="198" y="198" width="96" height="96"/>
+	<SubTexture name="Sonic3Talk0003" x="296" y="198" width="96" height="96"/>
+
+	<SubTexture name="Sonic4Talk0000" x="2" y="296" width="96" height="96"/>
+	<SubTexture name="Sonic4Talk0001" x="100" y="296" width="96" height="96"/>
+	<SubTexture name="Sonic4Talk0002" x="198" y="296" width="96" height="96"/>
+	<SubTexture name="Sonic4Talk0003" x="296" y="296" width="96" height="96"/>
+</TextureAtlas>

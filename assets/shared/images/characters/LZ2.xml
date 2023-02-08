@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LZ2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GHZ0000" x="1" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0001" x="579" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0002" x="1157" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0003" x="1735" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0004" x="2313" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0005" x="2891" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0006" x="3469" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0007" x="4047" y="1" width="576" height="272"/>
+	<SubTexture name="GHZ0008" x="1" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0009" x="579" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0010" x="1157" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0011" x="1735" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0012" x="2313" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0013" x="2891" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0014" x="3469" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0015" x="4047" y="275" width="576" height="272"/>
+	<SubTexture name="GHZ0016" x="1" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0017" x="579" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0018" x="1157" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0019" x="1735" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0020" x="2313" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0021" x="2891" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0022" x="3469" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0023" x="4047" y="549" width="576" height="272"/>
+	<SubTexture name="GHZ0024" x="1" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0025" x="579" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0026" x="1157" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0027" x="1735" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0028" x="2313" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0029" x="2891" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0030" x="3469" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0031" x="4047" y="823" width="576" height="272"/>
+	<SubTexture name="GHZ0032" x="1" y="1097" width="576" height="272"/>
+	<SubTexture name="GHZ0033" x="579" y="1097" width="576" height="272"/>
+	<SubTexture name="GHZ0034" x="1157" y="1097" width="576" height="272"/>
+	<SubTexture name="GHZ0035" x="1735" y="1097" width="576" height="272"/>
+	<SubTexture name="GHZ0036" x="2313" y="1097" width="576" height="272"/>
+</TextureAtlas>

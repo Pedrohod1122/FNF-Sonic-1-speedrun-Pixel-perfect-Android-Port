@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRun2_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicStand0000" x="1" y="1" width="56" height="56"/>
+	<SubTexture name="SonicStand0001" x="58" y="1" width="56" height="56"/>
+	<SubTexture name="SonicStand0002" x="115" y="1" width="56" height="56"/>
+
+	<SubTexture name="SonicUp0000" x="1" y="58" width="56" height="56"/>
+	<SubTexture name="SonicUp0001" x="58" y="58" width="56" height="56"/>
+	<SubTexture name="SonicUpMISS0000" x="115" y="58" width="56" height="56"/>
+
+	<SubTexture name="SonicLeft0000" x="1" y="115" width="56" height="56"/>
+	<SubTexture name="SonicLeft0001" x="58" y="115" width="56" height="56"/>
+	<SubTexture name="SonicLeftMISS0000" x="115" y="115" width="56" height="56"/>
+
+	<SubTexture name="SonicRight0000" x="1" y="172" width="56" height="56"/>
+	<SubTexture name="SonicRight0001" x="58" y="172" width="56" height="56"/>
+	<SubTexture name="SonicRightMISS0000" x="115" y="172" width="56" height="56"/>
+
+	<SubTexture name="SonicDown0000" x="1" y="229" width="56" height="56"/>
+	<SubTexture name="SonicDown0001" x="58" y="229" width="56" height="56"/>
+	<SubTexture name="SonicDownMISS0000" x="115" y="229" width="56" height="56"/>
+
+	<SubTexture name="SonicDodge0000" x="172" y="1" width="56" height="113"/>
+	<SubTexture name="SonicDodge0001" x="229" y="1" width="56" height="113"/>
+	<SubTexture name="SonicDodge0002" x="286" y="1" width="56" height="113"/>
+	<SubTexture name="SonicDodge0003" x="343" y="1" width="56" height="113"/>
+	<SubTexture name="SonicDodge0004" x="400" y="1" width="56" height="113"/>
+	<SubTexture name="SonicDodge0005" x="172" y="115" width="56" height="113"/>
+	<SubTexture name="SonicDodge0006" x="229" y="115" width="56" height="113"/>
+	<SubTexture name="SonicDodge0007" x="286" y="115" width="56" height="113"/>
+	<SubTexture name="SonicDodge0008" x="343" y="115" width="56" height="113"/>
+	<SubTexture name="SonicDodge0009" x="400" y="115" width="56" height="113"/>
+
+	<SubTexture name="SonicPistol0000" x="172" y="229" width="56" height="56"/>
+	<SubTexture name="SonicPistol0001" x="229" y="229" width="56" height="56"/>
+	<SubTexture name="SonicPistol0002" x="286" y="229" width="56" height="56"/>
+	<SubTexture name="SonicPistol0003" x="343" y="229" width="56" height="56"/>
+</TextureAtlas>

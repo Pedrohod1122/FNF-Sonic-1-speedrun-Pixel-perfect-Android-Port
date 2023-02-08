@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EggmanRun6_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EggmanStand0000" x="191" y="1" width="94" height="94"/>
+	<SubTexture name="EggmanStand0001" x="96" y="1" width="94" height="94"/>
+	<SubTexture name="EggmanStand0002" x="1" y="1" width="94" height="94"/>
+
+	<SubTexture name="EggmanUp0000" x="1" y="96" width="94" height="94"/>
+	<SubTexture name="EggmanUp0001" x="96" y="96" width="94" height="94"/>
+
+	<SubTexture name="EggmanLeft0000" x="1" y="191" width="94" height="94"/>
+	<SubTexture name="EggmanLeft0001" x="96" y="191" width="94" height="94"/>
+
+	<SubTexture name="EggmanRight0000" x="1" y="286" width="94" height="94"/>
+	<SubTexture name="EggmanRight0001" x="96" y="286" width="94" height="94"/>
+
+	<SubTexture name="EggmanDown0000" x="1" y="381" width="94" height="94"/>
+	<SubTexture name="EggmanDown0001" x="96" y="381" width="94" height="94"/>
+</TextureAtlas>

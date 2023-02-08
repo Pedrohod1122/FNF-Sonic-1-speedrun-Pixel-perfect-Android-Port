@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SonicRun12_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SonicStand0000" x="1" y="1" width="62" height="62"/>
+	<SubTexture name="SonicStand0001" x="64" y="1" width="62" height="62"/>
+	<SubTexture name="SonicStand0002" x="127" y="1" width="62" height="62"/>
+	<SubTexture name="SonicStand0003" x="190" y="1" width="62" height="62"/>
+
+	<SubTexture name="SonicUp0000" x="1" y="64" width="62" height="62"/>
+	<SubTexture name="SonicUp0001" x="64" y="64" width="62" height="62"/>
+	<SubTexture name="SonicUp0002" x="127" y="64" width="62" height="62"/>
+	<SubTexture name="SonicUp0003" x="190" y="64" width="62" height="62"/>
+	<SubTexture name="SonicUpMISS0000" x="253" y="64" width="62" height="62"/>
+
+	<SubTexture name="SonicLeft0000" x="1" y="127" width="62" height="62"/>
+	<SubTexture name="SonicLeft0001" x="64" y="127" width="62" height="62"/>
+	<SubTexture name="SonicLeft0002" x="127" y="127" width="62" height="62"/>
+	<SubTexture name="SonicLeft0003" x="190" y="127" width="62" height="62"/>
+	<SubTexture name="SonicLeftMISS0000" x="253" y="127" width="62" height="62"/>
+
+	<SubTexture name="SonicRight0000" x="1" y="190" width="62" height="62"/>
+	<SubTexture name="SonicRight0001" x="64" y="190" width="62" height="62"/>
+	<SubTexture name="SonicRight0002" x="127" y="190" width="62" height="62"/>
+	<SubTexture name="SonicRight0003" x="190" y="190" width="62" height="62"/>
+	<SubTexture name="SonicRightMISS0000" x="253" y="190" width="62" height="62"/>
+
+	<SubTexture name="SonicDown0000" x="1" y="253" width="62" height="62"/>
+	<SubTexture name="SonicDown0001" x="64" y="253" width="62" height="62"/>
+	<SubTexture name="SonicDown0002" x="127" y="253" width="62" height="62"/>
+	<SubTexture name="SonicDown0003" x="190" y="253" width="62" height="62"/>
+	<SubTexture name="SonicDownMISS0000" x="253" y="253" width="62" height="62"/>
+
+	<SubTexture name="SonicJump0000" x="1" y="316" width="62" height="157"/>
+	<SubTexture name="SonicJump0001" x="64" y="316" width="62" height="157"/>
+	<SubTexture name="SonicJump0002" x="127" y="316" width="62" height="157"/>
+	<SubTexture name="SonicJump0003" x="190" y="316" width="62" height="157"/>
+	<SubTexture name="SonicJump0004" x="253" y="316" width="62" height="157"/>
+	<SubTexture name="SonicJump0005" x="1" y="474" width="62" height="157"/>
+	<SubTexture name="SonicJump0006" x="64" y="474" width="62" height="157"/>
+	<SubTexture name="SonicJump0007" x="127" y="474" width="62" height="157"/>
+</TextureAtlas>

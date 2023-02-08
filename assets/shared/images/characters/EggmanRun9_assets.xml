@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EggmanRun9_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EggmanStand0000" x="573" y="1" width="142" height="142"/>
+	<SubTexture name="EggmanStand0001" x="430" y="1" width="142" height="142"/>
+	<SubTexture name="EggmanStand0002" x="287" y="1" width="142" height="142"/>
+	<SubTexture name="EggmanStandLOOP0000" x="287" y="1" width="142" height="142"/>
+	<SubTexture name="EggmanStandLOOP0001" x="144" y="1" width="142" height="142"/>
+	<SubTexture name="EggmanStandLOOP0002" x="1" y="1" width="142" height="142"/>
+
+	<SubTexture name="EggmanUp0000" x="430" y="144" width="142" height="142"/>
+	<SubTexture name="EggmanUp0001" x="287" y="144" width="142" height="142"/>
+	<SubTexture name="EggmanUpLOOP0000" x="287" y="144" width="142" height="142"/>
+	<SubTexture name="EggmanUpLOOP0001" x="144" y="144" width="142" height="142"/>
+	<SubTexture name="EggmanUpLOOP0002" x="1" y="144" width="142" height="142"/>
+
+	<SubTexture name="EggmanRight0000" x="430" y="287" width="142" height="142"/>
+	<SubTexture name="EggmanRight0001" x="287" y="287" width="142" height="142"/>
+	<SubTexture name="EggmanRightLOOP0000" x="287" y="287" width="142" height="142"/>
+	<SubTexture name="EggmanRightLOOP0001" x="144" y="287" width="142" height="142"/>
+	<SubTexture name="EggmanRightLOOP0002" x="1" y="287" width="142" height="142"/>
+
+	<SubTexture name="EggmanLeft0000" x="430" y="430" width="142" height="142"/>
+	<SubTexture name="EggmanLeft0001" x="287" y="430" width="142" height="142"/>
+	<SubTexture name="EggmanLeftLOOP0000" x="287" y="430" width="142" height="142"/>
+	<SubTexture name="EggmanLeftLOOP0001" x="144" y="430" width="142" height="142"/>
+	<SubTexture name="EggmanLeftLOOP0002" x="1" y="430" width="142" height="142"/>
+
+	<SubTexture name="EggmanDown0000" x="430" y="573" width="142" height="142"/>
+	<SubTexture name="EggmanDown0001" x="287" y="573" width="142" height="142"/>
+	<SubTexture name="EggmanDownLOOP0000" x="287" y="573" width="142" height="142"/>
+	<SubTexture name="EggmanDownLOOP0001" x="144" y="573" width="142" height="142"/>
+	<SubTexture name="EggmanDownLOOP0002" x="1" y="573" width="142" height="142"/>
+</TextureAtlas>
