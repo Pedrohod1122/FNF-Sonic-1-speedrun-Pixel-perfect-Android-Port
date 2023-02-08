@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M bf HEY",
+	"idle_anim": "M BF Idle",
+	"position": [
+		28,
+		-66
+	],
+	"scale": 1,
+	"image": "SegaGenesis_Sonic1",
+	"flipX": false
+}
