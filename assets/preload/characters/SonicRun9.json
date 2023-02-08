@@ -1,0 +1,264 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "SonicStand"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "SonicUp"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "SonicLeft"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "SonicRight"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "SonicDown"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SonicUpMISS",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "SonicLeftMISS",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "SonicRightMISS",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SonicDownMISS",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"fps": 24,
+			"name": "SonicAngry",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-20
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "SonicPunch",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				290
+			],
+			"anim": "aah",
+			"fps": 24,
+			"name": "SonicAAH",
+			"indices": [
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1,
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicRun9_assets",
+	"position": [
+		270,
+		350
+	],
+	"healthicon": "sonicrun",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		76,
+		205
+	],
+	"camera_position": [
+		-140,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

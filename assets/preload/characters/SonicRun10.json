@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SonicStand",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "wow",
+			"loop": true,
+			"name": "SonicWOW"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicRun10_assets",
+	"position": [
+		270,
+		350
+	],
+	"healthicon": "sonicrun",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		76,
+		205
+	],
+	"camera_position": [
+		-140,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

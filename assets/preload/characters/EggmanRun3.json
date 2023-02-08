@@ -1,0 +1,38 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "EggmanStand",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EggmanRun3_assets",
+	"position": [
+		-190,
+		220
+	],
+	"healthicon": "eggmanrun",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		-560
+	],
+	"sing_duration": 4,
+	"scale": 5.8
+}

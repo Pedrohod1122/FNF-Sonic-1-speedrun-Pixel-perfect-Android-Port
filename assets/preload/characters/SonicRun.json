@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SonicStand",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SonicUp",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SonicLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SonicRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SonicDown",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "SonicUpMISS"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "SonicLeftMISS"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "SonicRightMISS"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "SonicDownMISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicRun_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sonicrun",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		76,
+		205
+	],
+	"camera_position": [
+		-140,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

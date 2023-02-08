@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EggmanUp",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EggmanLeft",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EggmanRight",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EggmanDown",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanStand"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanStandLOOP"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singUP-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanUpLOOP"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singLEFT-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanLeftLOOP"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanRightLOOP"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "singDOWN-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "EggmanDownLOOP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EggmanRun10_assets",
+	"position": [
+		-360,
+		150
+	],
+	"healthicon": "eggmanrun",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		0
+	],
+	"camera_position": [
+		-450,
+		-560
+	],
+	"sing_duration": 4,
+	"scale": 4.3
+}
