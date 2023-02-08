@@ -1,0 +1,32 @@
+{
+	"storyName": "un gran speedrun con memes",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"SpeedFunk",
+			"sonicrun",
+			[
+				106,
+				93,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"sonic1",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
