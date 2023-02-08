@@ -1,0 +1,4 @@
+Value 1: In this value you must place the name of the image of
+the area that you want to appear in the song
+
+Value 2: Here will go the duration of the image.
